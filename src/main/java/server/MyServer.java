@@ -36,7 +36,7 @@ public class MyServer {
                 if (line == null) break;
 
                 if (line.equals("exit")) {
-                    System.out.println("서버 종료 요청이다");
+                    System.out.println("서버 종료.");
                     break;
                 }
 
